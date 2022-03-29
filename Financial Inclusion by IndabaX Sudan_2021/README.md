@@ -1,4 +1,4 @@
-* # Financial Inclusion in Africa by IndabaX Sudan 2021 (My First ML Project):
+* # Financial Inclusion in Africa by IndabaX Sudan 2021 :
 Financial inclusion remains one of the main obstacles to economic and human development in Africa. 
 For example, across Kenya, Rwanda, Tanzania, and Uganda only 9.1 million adults (or 14% of adults) have access to or use a commercial bank account.
 <br />The objective of this competition is to create a machine learning model to predict which individuals are most likely to have or use a bank account. 
